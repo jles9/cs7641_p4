@@ -20,6 +20,12 @@ For this project, each algorithim is analyzed with respect to two different envi
 
     <python3 ./main.py> to run all experiments
 
+## Dependencies
+
+    A list of all dependencies may be found in dep.txt.
+
+    This is obtained from pip -list; not all packages shown may be necessary
+
 ## Files Included
     hivemdptoolbox dir 
         - obtained by running <git clone https://github.com/hiive/hiivemdptoolbox>

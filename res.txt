@@ -1,0 +1,32 @@
+Forest Basic Runtime PI: 0.2695624828338623 
+
+Forest Basic Policy Cuts PI: 980 
+
+Forest Basic Policy Waits PI: 20 
+
+Frozen Lake Basic Runtime PI: 0.012457847595214844 
+
+Forest Basic Runtime VI: 0.022907733917236328 
+
+Forest Basic Policy Cuts VI: 980 
+
+Forest Basic Policy Waits VI: 20 
+
+Frozen Lake Basic Runtime VI: 0.011369705200195312 
+
+Forest Basic Runtime Qlearn: 23.490505933761597 
+
+Forest Basic Policy Cuts QLearn: 562 
+
+Forest Basic Policy Waits QLearn: 438 
+
+Frozen Lake Basic Runtime Qlearn: 28.971914768218994 
+
+Forest Basic Runtime PI: 0.2388153076171875 
+
+Forest Basic Policy Cuts PI: 980 
+
+Forest Basic Policy Waits PI: 20 
+
+Frozen Lake Basic Runtime PI: 0.002361297607421875 
+
