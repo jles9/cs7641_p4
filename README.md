@@ -1,4 +1,4 @@
-### CS 7641 Project 3: Markov Decision Processes
+### CS 7641 Project : Markov Decision Processes
 
 # Github Link:
 https://github.com/jles9/cs7641_p4
