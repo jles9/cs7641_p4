@@ -128,7 +128,7 @@ def plot_sizes(data, problemName):
     plt.ylabel("Total Iterations to Converge")
     # plt.legend()
     #plt.show()
-    plt.title("Cummulative Rewards for {}, Varying State Size".format(problemName))
+    plt.title("Iterations to Converge for {}, Varying State Size".format(problemName))
     plt.savefig('./graphs/PI/{}_size.png'.format(problemName))
 
 def runForestExp():
